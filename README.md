@@ -1,20 +1,42 @@
 ## List of Free Software Testing Resources
 
+[![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-### Intro
+**[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons with updates.**
 
-There is a list of [free programming ebooks](https://github.com/vhf/free-programming-books).
-And I have decided to create a similar list but for [software testing books](/free-software-testing-books.md). And now we have not only lists with books [in English](/free-software-testing-books.md) and [Russian](/free-software-testing-books-ru.md), but also [courses](/free-software-testing-courses.md) and [podcasts](/free-software-testing-podcasts.md).
+### Community
 
-### Quotes
+<img src="sqaunderhood-logo.svg" align="left" alt="sqaunderhood logo" width="100" style="padding: 10px;"/>
 
-- Alexander Todorov (Open source QA, Senior QA engineer at Red Hat):
+- Telegram: https://t.me/sqaunderhood
+- Twitter: https://twitter.com/sqaunderhood
+- Facebook: https://www.facebook.com/sqaunderhood/
+- VK: https://vk.com/sqaunderhood
 
-> There's [a huge list of free books on the topic of software testing](http://atodorov.org/blog/2015/05/20/free-software-testing-books/).
-> This will definitely be my summer reading list. I hope you find it helpful.
+### Introduction
 
-- Типичный программист: [Всё о QA: 83 бесплатных материала по грамотному тестированию](https://tproger.ru/digest/free-software-testing-books/)
+This [wiki](https://github.com/ligurio/awesome-software-quality/wiki) collects resources for anyone considering the use of software testing and formal methods. 
+
+There are many axes along which one can organize such a list, such as the level of expertise of the intended audience (from experts to the public at large) or disciplinary orientation (computer science, mathematics, mathematical logic, etc.). Here I have chosen to classify the material by type of subject matter.
+    
+If you would like add something, just send the text as you would like it to appear to estetus@gmail.com, preferrably already formatted in markdown.
+
+Clone wiki: `git clone https://github.com/ligurio/awesome-software-quality.wiki.git`
+
+## Content
+
+* Books:
+  * [In English](https://github.com/ligurio/awesome-software-quality/wiki/books-in-english)
+  * [In Russian](https://github.com/ligurio/awesome-software-quality/wiki/books-in-russian)
+* Courses:
+  * [In English](https://github.com/ligurio/awesome-software-quality/wiki/courses-in-english)
+  * [In Russian](https://github.com/ligurio/awesome-software-quality/wiki/courses-in-russian)
+* [Podcasts](https://github.com/ligurio/awesome-software-quality/wiki/Podcasts)
+* Conferences: [Software Testing Conferences](http://testingconferences.org/)
+* [Workshops and interactive learning tools](https://github.com/ligurio/awesome-software-quality/wiki/learning-tools)
+* [Bugs And Learned lessons](https://github.com/ligurio/awesome-software-quality/wiki/bugs-and-learned-lessons)
+* [Awesome lists](https://github.com/ligurio/awesome-software-quality/wiki/links-collections)
 
 ### License
 
